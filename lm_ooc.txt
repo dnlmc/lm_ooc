@@ -1,4 +1,4 @@
-<pre><code>
+See README.md for how to use
 ----------begin_max5_patcher----------
 4987.3oc6c80iiaij+4YA1uCDBCNjLoaO7u5OAHGPtrOrKPBtEa16kavfFx1
 x1JirjijbOcmfLXe7d9d9tub4SxQxhxVtaaYp1lxce6fASaQYKxh+XwpJVUQ
@@ -112,4 +112,3 @@ XdZNIO18b5gFwID8gLCStvFp9fmgIuPHZaEi4gHaNlu17NOf6SC3vY8SHkIz
 miM3G9bzssFl.GUYLbTHFdeept0CdqIHw074v1RGb2cysWUVrpnrg6R9vQae
 h00EyKimpN6g2Nv2Lx2f9vleW9Sdzth2aoDdS27jlC1D4G+e.r0+Fl.
 -----------end_max5_patcher-----------
-</code></pre>
